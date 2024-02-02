@@ -1,2 +1,2 @@
 print("Hi here is my first code!")
-print("Bye Bye :) ")
+print(" Have a nice Day ")
